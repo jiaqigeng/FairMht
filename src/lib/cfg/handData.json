@@ -1,0 +1,15 @@
+{
+    "root":"/home/ubuntu/data",
+    "train":
+    {
+        "handData":"./data/handData.train"
+    },
+    "test_emb":
+    {
+        "handData":"./data/handData.val"
+    },
+    "test":
+    {
+        "handData":"./data/handData.val"
+    }
+}
